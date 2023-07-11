@@ -1,0 +1,24 @@
+dist: trusty
+
+notifications:
+  email:
+    recipients:
+      - dev@rocketmq.apache.org
+  on_success: change
+  on_failure: always
+
+language: java
+
+jdk:
+  - oraclejdk8
+  - oraclejdk11
+
+script:
+  - travis_retry mvn -B clean apache-rat:check
+  - travis_retry mvn -B package findbugs:findbugs jacoco:report coveralls:report
+  
+#    - travis_retry mvn -B package findbugs:findbugs coveralls:report
+#after_success:
+#    - mvn sonar:sonar
+after_success:
+  - bash <(curl -s https://codecov.io/bash) -t 996e4d8e-8a00-49f2-b649-38c03716d690 || echo 'Codecov failed to upload'
