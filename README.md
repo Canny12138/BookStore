@@ -36,4 +36,18 @@
 在商品界面中，用户浏览正在限时秒杀促销的商品列表，点击进入秒杀商品详情页，可以查看秒杀特价和秒杀倒计时。  
 ![image](https://github.com/Canny12138/BookStore/assets/59813917/4e912211-1b16-4497-a520-ffa56095ccec)
 ![image](https://github.com/Canny12138/BookStore/assets/59813917/3ed824fa-16c8-4c8e-a653-c72034e730e8)  
+# 后台管理系统的实现
+## 2.1 用户管理界面
+用户管理界面展示了系统中所有用户的列表。管理员可以在此界面查看、添加、修改和删除用户。每个用户的信息包括用户名、创建时间等。  
+![image](https://github.com/Canny12138/BookStore/assets/59813917/52d26c21-b1bb-4864-84e6-02af05b66797)  
+![image](https://github.com/Canny12138/BookStore/assets/59813917/5f6085ec-a2e0-4a49-b8af-42ed1ca3859e)  
+# 商家后台系统的实现
+## 3.1 商品管理界面
+商品管理界面展示了店铺中所有图书的列表。商家可以在此界面查看、添加、修改和删除图书。每本图书的信息包括书名、价格、库存等。  
+![image](https://github.com/Canny12138/BookStore/assets/59813917/5d349fa9-5146-4448-9db6-a0ada04c0115)  
+![image](https://github.com/Canny12138/BookStore/assets/59813917/97d00cba-89e0-4eb4-907d-0b75247f38ad)  
+## 3.2 订单管理界面
+商品管理界面展示了店铺中所有订单的列表。商家可以在此界面查看订单，并对未发货的订单进行发货操作。   
+![image](https://github.com/Canny12138/BookStore/assets/59813917/547d106c-c311-46f2-82ce-795dab61ceb4)  
+
 
