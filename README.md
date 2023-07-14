@@ -9,7 +9,7 @@
 ![image](https://github.com/Canny12138/BookStore/assets/59813917/5d22e57e-d921-4e1e-a0ee-10d557c8b11f)  
 ## 1.3 分类
 分类界面展示了图书商城中所有的图书分类。用户可以根据兴趣，点击相应的分类查看该分类下的所有图书。在顶部，用户可以使用搜索功能根据关键字搜索图书。  
-![4JS9N6O8FXB0)(X9MIXWEMO](https://github.com/Canny12138/BookStore/assets/59813917/a71191f6-d678-4073-9864-ec040835fcda)  
+![image](https://github.com/Canny12138/BookStore/assets/59813917/a71191f6-d678-4073-9864-ec040835fcda)  
 ## 1.4 商品详情
 图书详情界面展示了图书的详细信息，如书名、价格、库存、封面图片和详细描述等。用户可以在此页面收藏图书、将图书添加到购物车或立即购买。  
 ![807NNSMB~ER5WM3G NRA8CS](https://github.com/Canny12138/BookStore/assets/59813917/06072f64-2616-4055-ae04-599897fc026b)  
