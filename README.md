@@ -9,10 +9,10 @@
 ![image](https://github.com/Canny12138/BookStore/assets/59813917/5d22e57e-d921-4e1e-a0ee-10d557c8b11f)  
 ## 1.3 分类
 分类界面展示了图书商城中所有的图书分类。用户可以根据兴趣，点击相应的分类查看该分类下的所有图书。在顶部，用户可以使用搜索功能根据关键字搜索图书。  
-![image](https://github.com/Canny12138/BookStore/assets/59813917/a71191f6-d678-4073-9864-ec040835fcda)  
+![image](https://github.com/Canny12138/BookStore/assets/59813917/f6ba5571-3e20-4c87-9f71-c769b70ea526)  
 ## 1.4 商品详情
 图书详情界面展示了图书的详细信息，如书名、价格、库存、封面图片和详细描述等。用户可以在此页面收藏图书、将图书添加到购物车或立即购买。  
-![807NNSMB~ER5WM3G NRA8CS](https://github.com/Canny12138/BookStore/assets/59813917/06072f64-2616-4055-ae04-599897fc026b)  
+![image](https://github.com/Canny12138/BookStore/assets/59813917/33d2e013-748e-4ce8-a6b2-b95ab51d4ac0)  
 ## 1.5 个人中心
 个人中心界面为用户提供了查看个人信息、收货地址管理、收藏夹管理、订单管理等功能。  
 ![image](https://github.com/Canny12138/BookStore/assets/59813917/9f6cd2a3-eba6-498c-8791-4cacec9a2953)  
@@ -24,15 +24,16 @@
 ![image](https://github.com/Canny12138/BookStore/assets/59813917/2e3598b1-81f1-4c6e-b3db-a238e78d8eda)  
 ## 1.8 订单确认
 当用户从购物车页面提交订单时，将进入订单确认界面。在此界面，用户可以选择收货地址、查看订单中的图书列表和总金额，然后确认提交订单。  
-![@21XS80Y~IVVHM@_ 4_$)4L](https://github.com/Canny12138/BookStore/assets/59813917/d129512f-6690-40fe-8f8f-8b007b5b2601)  
+![image](https://github.com/Canny12138/BookStore/assets/59813917/3e6063b3-02d5-4675-86bf-92b796528e03)  
 ## 1.9 订单列表
 订单列表界面展示了用户在图书商城中的所有订单，用户可以在此界面查看待支付、待发货、待收货、待评价等不同状态的订单。  
-![JQA3{$K%J28%51(JAIWO}KF](https://github.com/Canny12138/BookStore/assets/59813917/06c2b58d-a082-4190-a510-9009b60e7944)  
+![image](https://github.com/Canny12138/BookStore/assets/59813917/ad2d54e5-0f5a-4e75-8ea7-bfe1f53e7507)  
 ## 1.10 地址列表
 在个人中心的地址列表界面中，用户可以浏览地址和点击编辑收货地址进入收货地址编辑页面。在此页面，用户可以修改收货地址的详细信息，如收件人姓名、电话、详细地址等。  
 ![image](https://github.com/Canny12138/BookStore/assets/59813917/de1ec0b8-8c7a-43a5-8bba-fa6fb0007746)
 ![image](https://github.com/Canny12138/BookStore/assets/59813917/39140080-efe5-4f99-bc6f-7db91d1f84b0)  
 ## 1.11 秒杀商品
 在商品界面中，用户浏览正在限时秒杀促销的商品列表，点击进入秒杀商品详情页，可以查看秒杀特价和秒杀倒计时。  
-![QBKVPE MT Y@LW1A_WGOI(G](https://github.com/Canny12138/BookStore/assets/59813917/e75ed1ab-0d55-47da-b609-74a916a31766)
-![EQ(YFO1FMS~(L~@X2IOL(EG](https://github.com/Canny12138/BookStore/assets/59813917/69c9f93d-f898-4e45-bb35-e231ff183d2c)  
+![image](https://github.com/Canny12138/BookStore/assets/59813917/4e912211-1b16-4497-a520-ffa56095ccec)
+![image](https://github.com/Canny12138/BookStore/assets/59813917/3ed824fa-16c8-4c8e-a653-c72034e730e8)  
+
